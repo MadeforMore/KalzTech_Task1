@@ -1,7 +1,7 @@
 # KalzTech_Task1
 This is the Simple HTML, CSS , JS Calculator 
 
-# SEE THE CALCULATOR HERE :- https://madeformore.github.io/KalzTech_Task1/
+### SEE THE CALCULATOR HERE :- https://madeformore.github.io/KalzTech_Task1/
 
 # Aryan Calculator 🧮
 
