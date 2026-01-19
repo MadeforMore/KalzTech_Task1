@@ -1,6 +1,8 @@
 # KalzTech_Task1
 This is the Simple HTML, CSS , JS Calculator 
 
+# SEE THE CALCULATOR HERE :- https://madeformore.github.io/KalzTech_Task1/
+
 # Aryan Calculator 🧮
 
 Aryan Calculator is a simple and clean calculator application built using **pure JavaScript**, **HTML**, and **CSS**.  
